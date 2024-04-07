@@ -351,7 +351,7 @@ body {
         width: 45%;
     }
 }
-@media (min-width: 375px)and (max-width: 767px) {
+@media (min-width: 320px)and (max-width: 767px) {
     .center {
         padding-right: calc(50% - 172px);
         padding-left: calc(50% - 172px);
@@ -509,7 +509,6 @@ body {
     .social__network {
         justify-content: center;
     }
-
     }
     
 
