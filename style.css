@@ -2,13 +2,11 @@
     margin: 0;
     padding: 0;
     text-decoration: none;
-    /*font-family: 'Open Sans', 'Roboto';*/
 }
 body {
     background-color: rgb(2, 10, 24);
     font-family: "Open Sans", sans-serif;
     font-family: "Roboto Serif", serif;
-
 }
 .center {
     padding-left: calc(50% - 1170px/2);
@@ -18,10 +16,6 @@ body {
 }
 .header__nav{
     margin-bottom: 160px;
-    /*padding-top: 39px;
-    padding-bottom: 39px;
-    padding-right: 20px;
-    padding-left: 20px; */
     display: flex;
     justify-content: center;
     gap: 40px;
@@ -90,8 +84,6 @@ body {
     border: none;
     border-radius: 5px;
     background: rgb(58, 104, 184);
-    /*width: 171px;
-    height: 57px; */
     padding: 15px 30px 15px 30px;
     color: rgb(255, 255, 255);
     font-family: Open Sans;
@@ -109,8 +101,6 @@ body {
     display: flex;
     align-items: center;
     gap: 10px;
-   /* width: 217px;
-    height: 57px;*/
 }
 .logos {
     margin-bottom: 256px;
@@ -164,7 +154,7 @@ body {
     margin-bottom: 243px;
 }
 .achievements__big {
-    grid-area: 2 /1 / 4 / 3 ;
+    grid-area: 2 /1 / 4 / 3;
 }
 .achievements__item {
     display: flex;
@@ -238,10 +228,6 @@ body {
     padding-bottom: 46px;
     display: flex;
     gap: 10%;
-    /*border-radius: 10px;
-    backdrop-filter: blur(200px);
-    background: linear-gradient(180.00deg, rgba(255, 255, 255, 0.2) -41.902%,rgb(255, 255, 255) 260.236%);
-    opacity: 0.05;*/
 }
 .information {
     width: 30%;
@@ -340,8 +326,6 @@ body {
     }
     .achievements__item {
         width: 45%;
-        /*margin-right: 203px;
-        margin-left: 203px;*/
     }
     .reviews {
         display: flex;
@@ -439,7 +423,6 @@ body {
     .more__content__info {
         width: 100%;
         align-items: center;
-
     }
     .more__content__title { 
         margin-top: 0px;  
@@ -451,7 +434,6 @@ body {
         font-size: 16px;
         text-align: center;
         margin-bottom: 16px;
-
     }
     .achievements {
         display: flex;
