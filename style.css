@@ -37,7 +37,7 @@ body {
     font-size: 16px;
     font-weight: 600;
     line-height: 22px;
-    letter-spacing: 0%;
+    letter-spacing: 0;
     text-align: left; 
     padding-top: 39px;
     padding-bottom: 39px;
@@ -68,7 +68,7 @@ body {
     font-size: 18px;
     font-weight: 600;
     line-height: 160%;
-    letter-spacing: 0%;
+    letter-spacing: 0;
     text-align: left;
     text-transform: uppercase;
     margin-bottom: 10px;
@@ -80,7 +80,7 @@ body {
     font-size: 55px;
     font-weight: 800;
     line-height: 130%;
-    letter-spacing: 0%;
+    letter-spacing: 0;
     text-align: left; 
 }
 .text {
@@ -89,7 +89,7 @@ body {
     font-size: 18px;
     font-weight: 600;
     line-height: 160%;
-    letter-spacing: 0%;
+    letter-spacing: 0;
     text-align: left;
 }
 .content__buttons {
@@ -109,7 +109,7 @@ body {
     font-size: 20px;
     font-weight: 600;
     line-height: 27px;
-    letter-spacing: 0%;
+    letter-spacing: 0;
     text-align: left;
 }
 .button:hover {
@@ -177,7 +177,7 @@ body {
     font-size: 40px;
     font-weight: 700;
     line-height: 130%;
-    letter-spacing: 0%;
+    letter-spacing: 0;
     text-align: left;
     margin-top: 117px;
     margin-bottom: 30px;
@@ -188,7 +188,7 @@ body {
     font-size: 16px;
     font-weight: 600;
     line-height: 160%;
-    letter-spacing: 0%;
+    letter-spacing: 0;
     text-align: left;
 }
 .achievements {
@@ -272,7 +272,7 @@ body {
     font-size: 25px;
     font-weight: 700;
     line-height: 125%;
-    letter-spacing: 0%;
+    letter-spacing: 0;
     text-align: center;
     margin-top: 30px;
     margin-bottom: 30px;
@@ -287,7 +287,7 @@ body {
     font-size: 16px;
     font-weight: 600;
     line-height: 160%;
-    letter-spacing: 0%;
+    letter-spacing: 0;
     text-align: center;
 }
 .reviews {
@@ -313,7 +313,7 @@ body {
     font-size: 40px;
     font-weight: 700;
     line-height: 130%;
-    letter-spacing: 0%;
+    letter-spacing: 0;
     text-align: left;
     margin-bottom: 20px;  
 }
@@ -323,7 +323,7 @@ body {
     font-size: 16px;
     font-weight: 600;
     line-height: 160%;
-    letter-spacing: 0%;
+    letter-spacing: 0;
     text-align: left;
     margin-top: 20px;
 }
@@ -344,7 +344,7 @@ body {
     font-size: 16px;
     font-weight: 500;
     line-height: 19px;
-    letter-spacing: 0%;
+    letter-spacing: 0;
     text-align: left;
     margin-bottom: 33px;
 }
@@ -368,7 +368,7 @@ body {
     font-size: 14px;
     font-weight: 250;
     line-height: 16px;
-    letter-spacing: 0%;
+    letter-spacing: 0;
     text-align: left;
 }
 .contact__detalis {
@@ -377,7 +377,7 @@ body {
     font-size: 14px;
     font-weight: 500;
     line-height: 16px;
-    letter-spacing: 0%;
+    letter-spacing: 0;
     text-align: left;
 }
 .social__network {
